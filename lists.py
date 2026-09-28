@@ -101,7 +101,7 @@ print(renkler2)
 
 
 # tuple(demet) nedir? = listenin benzeri 
-#farkı demete herhangi bir eleman ekleyip çıkaramazsınız 114.satır örnek
+#farkı demete herhangi bir eleman ekleyip çıkaramazsınız  
 
 
 
@@ -159,4 +159,10 @@ boskume1= set()
 
 python=set("python")
 print(python)
-# set elemanlara parçalar ve bir kumede birleştirir
+# set elemanlara parçalar ve bir kumede birleştirir .   
+
+
+
+
+
+

@@ -64,12 +64,6 @@ while x * y < 1000:
     x += 2
     y += 2
 
-i = 1
-while True:
-    print(i)
-    i += 1
-    if i == 10000:
-        break
 
 i = 1
 while True:
